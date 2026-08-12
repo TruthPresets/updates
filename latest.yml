@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: Truth Presets Launcher-Setup-1.0.0.exe
-    sha512: sgoqkkggIBGulqI5pN9ZjQ0mnHYz7Xw+4mCJ9tdj7Wr+B29pLFhW0XQqFa6etrDjNoBp/3rZyh10ax++mHrLIQ==
-    size: 101312783
-path: Truth Presets Launcher-Setup-1.0.0.exe
-sha512: sgoqkkggIBGulqI5pN9ZjQ0mnHYz7Xw+4mCJ9tdj7Wr+B29pLFhW0XQqFa6etrDjNoBp/3rZyh10ax++mHrLIQ==
-releaseDate: '2026-08-12T06:03:31.792Z'
+  - url: Truth Presets Launcher-Setup-1.0.1.exe
+    sha512: dQcrhgbPDOf/51udqqc7aQfP/OLjx5koklrGYMqmK8eWsChlbJhuoH//tqu0Ggga1RddPXokNRXLRqH/Kh7+4A==
+    size: 101312822
+path: Truth Presets Launcher-Setup-1.0.1.exe
+sha512: dQcrhgbPDOf/51udqqc7aQfP/OLjx5koklrGYMqmK8eWsChlbJhuoH//tqu0Ggga1RddPXokNRXLRqH/Kh7+4A==
+releaseDate: '2026-08-12T06:12:26.515Z'
