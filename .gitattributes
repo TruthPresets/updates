@@ -1,2 +1,5 @@
 Truth[[:space:]]Presets[[:space:]]Launcher-Setup-1.0.4.exe filter=lfs diff=lfs merge=lfs -text
 Truth[[:space:]]Presets[[:space:]]Launcher-Setup-1.0.4.exe.blockmap filter=lfs diff=lfs merge=lfs -text
+Truth[[:space:]]Presets[[:space:]]Launcher-Setup-1.0.5.exe filter=lfs diff=lfs merge=lfs -text
+Truth[[:space:]]Presets[[:space:]]Launcher-Setup-1.0.5.exe.blockmap filter=lfs diff=lfs merge=lfs -text
+latest.yml filter=lfs diff=lfs merge=lfs -text

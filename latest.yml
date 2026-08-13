@@ -1,8 +1,3 @@
-version: 1.0.4
-files:
-  - url: Truth Presets Launcher-Setup-1.0.4.exe
-    sha512: Ty7OwIGHVZV2hCU0jypdkc/gswvBWWrEdMPnpSSPkQsi7c8texs6uXqC9Mx40mRtPgOJmyL64+sUcLom8hXTGg==
-    size: 90083070
-path: Truth Presets Launcher-Setup-1.0.4.exe
-sha512: Ty7OwIGHVZV2hCU0jypdkc/gswvBWWrEdMPnpSSPkQsi7c8texs6uXqC9Mx40mRtPgOJmyL64+sUcLom8hXTGg==
-releaseDate: '2026-08-12T21:25:45.522Z'
+version https://git-lfs.github.com/spec/v1
+oid sha256:fba9a442e83c63530e866ae89030cd125ba5be93d38e59fc9bd2c4c4ef4cdceb
+size 373
